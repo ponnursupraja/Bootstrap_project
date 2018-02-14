@@ -1,0 +1,17 @@
+
+.header{
+	margin:0px auto;
+}
+.footer{
+	margin:0px auto;
+	background-color: grey;
+
+}
+
+.nav-bar{
+	background-color: violet;
+}
+
+.navbar-inverse{
+	background-color: black;
+}
